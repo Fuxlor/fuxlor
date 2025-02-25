@@ -14,4 +14,4 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-[GitHub Streak](https://streak-stats.demolab.com?user=Fuxlor&theme=dark&hide_border=true&border_radius=5&card_height=220)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fuxlor&theme=dark&hide_border=true&border_radius=5&card_height=220)](https://git.io/streak-stats)
