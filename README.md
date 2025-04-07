@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Fivem Server [Fusion RP](https://discord.gg/W2SahP4qCj)
 
-- 🌱 I’m currently learning **Lua / JS**
+- 🌱 I’m currently learning **Lua / JS / React**
 
 - 💬 Ask me about **Lua or Discord.js**
 
