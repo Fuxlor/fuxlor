@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fuxlor&label=Profile views&color=0e75b6&style=flat" alt="Fuxlor" /> </p>
 
-- 🔭 I'm currently working on **a phone script for FiveM**
+- 🔭 I'm currently working on **a garage/cardealer/impound/persistence fivem script**
 
-- 🌱 I'm currently learning **Typescript**
+- 🌱 I'm currently learning **Java**
 
 - 💬 Ask me about **Lua (FiveM) or Discord.js**
 
