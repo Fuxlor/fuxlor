@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fuxlor&label=Profile views&color=0e75b6&style=flat" alt="Fuxlor" /> </p>
 
-- 🔭 I'm currently working on **a garage/cardealer/impound/persistence fivem script**
+- 🔭 I'm currently working on **a GTA RP Server and a Minecraft Server**
 
 - 🌱 I'm currently learning **Java**
 
