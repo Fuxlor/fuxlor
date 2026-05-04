@@ -2,7 +2,7 @@
 
 ### French Developper
 
-- 🔭 I'm currently working on **a GTA RP Server and a Minecraft server**
+- 🔭 I'm currently working on **GTA RP Scripts and a Minecraft server**
 
 - 🌱 I'm currently learning **Java**
 
