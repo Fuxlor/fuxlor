@@ -6,7 +6,9 @@
 
 - 🌱 I'm currently learning **Java**
 
-- 💬 Ask me about **Lua (FiveM)**
+- 💬 Ask me about **Lua (FiveM) or Discord**
+
+- 💻 I want to develop **GTA RP Server/Scripts and Discord bots**
 
 - 📫 How to reach me **celyan.mellinger@hotmail.fr**
 
